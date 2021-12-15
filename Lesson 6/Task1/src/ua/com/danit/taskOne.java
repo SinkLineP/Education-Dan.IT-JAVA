@@ -1,3 +1,4 @@
+/*
 package ua.com.danit;
 
 import java.util.Scanner;
@@ -24,3 +25,4 @@ public class taskOne {
     System.out.print("Output: " + fin);
   }
 }
+*/
